@@ -68,7 +68,7 @@
 - **🧑‍🔬 Main Author**: Wenqi Shao, Mengzhao Chen
 - **🏫 Affifiation**: Shanghai AI Laboratory
 - **🔗 Links**: [[Paper](https://arxiv.org/abs/2308.13137)] [[Code](https://github.com/OpenGVLab/OmniQuant)]
-- **📝 Note**: NeurIPS 2022; W8A8
+- **📝 Note**: NeurIPS 2022; W4A4
 
 #### [Q11] Atom: Low-bit Quantization for Efficient and Accurate LLM Serving
 - **🧑‍🔬 Main Author**: Yilong Zhao
